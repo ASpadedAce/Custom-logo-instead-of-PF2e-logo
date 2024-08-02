@@ -1,0 +1,20 @@
+{
+  "id": "sf2e-logo-instead-of-pf2e",
+  "title": "SF2e Logo Instead of PF2e",
+  "version": "1.0.0",
+  "author": "Grimsace",
+  "minimumCoreVersion": "0.12.0",
+  "compatibleCoreVersion": "0.12.0",
+  "system": "pf2e",
+  "scripts": [
+    "scripts/replaceLogo.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "esmodules": [],
+  "languages": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": ""
+}
