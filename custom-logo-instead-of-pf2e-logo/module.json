@@ -1,0 +1,20 @@
+{
+  "id": "custom-logo-instead-of-pf2e-logo",
+  "title": "Custom Logo Instead of PF2e Logo",
+  "version": "1.0.0",
+  "author": "Grimsace",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "system": "pf2e",
+  "scripts": [
+    "scripts/replaceLogo.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "esmodules": [],
+  "languages": [],
+  "url": "https://github.com/ASpadedAce/Custom-logo-instead-of-PF2e-logo",
+  "manifest": "https://github.com/ASpadedAce/Custom-logo-instead-of-PF2e-logo",
+  "protected": false,
+  "license": "GNU Public Licence v3.0"
+}
